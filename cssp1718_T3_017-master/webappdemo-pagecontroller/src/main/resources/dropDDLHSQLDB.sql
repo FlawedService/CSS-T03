@@ -1,0 +1,3 @@
+DROP TABLE RESIDENCE if exists
+DROP TABLE SALE if exists
+DROP TABLE CUSTOMER if exists
